@@ -3,10 +3,14 @@ Each project member owns at least one piece of work per sprint, contributing to 
 
 # Setup Steps
 
-### Clone this repository:
+### Cloning this repository:
 ```
 git clone https://github.com/Capstone-Project-27/Intelligent-Drone-Flight-Path-Planning-for-3D-Reconstruction.git
 ```
+
+### Running tests and Linting
+_See CI Gate Implementation Plan Below_
+
 
 # Definition of Done
 
@@ -27,8 +31,8 @@ git clone https://github.com/Capstone-Project-27/Intelligent-Drone-Flight-Path-P
 |-------|-----|-------|
 |Pre-commit Hook | 1  | Johnathon Rohweder |
 | Automated Test Suite   | 1  | Johnathon Rohweder   |
-| GitHub Actions (test runner)  | 1  | Johnathon Rohweder   |
-| GitHub Dependabot   | 1  | Johnathon Rohweder   |
+| GitHub Actions (test runner)  | 1  | Aiden Kitchen   |
+| GitHub Dependabot   | 1  | Aiden Kitchen   |
 
 
 ## **Where work lives**
